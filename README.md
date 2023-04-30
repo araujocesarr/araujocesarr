@@ -28,11 +28,10 @@ I'm a frontend web developer in formation. I have experience in responsive web d
   <img src="images/Javascript-certificate.jpeg" width="600" height="auto">
   </a>
 
-##Portafolio Projects
+## Portafolio Projects
+#### - Card validation form: HTML5 <img src="images/HTML.png" width="18" height="auto">, CSS <img src="images/css.png" width="18" height="auto">, SASS <img src="images/sass.png" width="18" height="auto"> and JavaScript <img src="images/JavaScript-logo.png" width="18" height="auto">.
 
-- Card validation form: HTML5 <img src="images/HTML.png" width="18" height="auto">, CSS <img src="images/css.png" width="18" height="auto">, SASS <img src="images/sass.png" width="18" height="auto"> and JavaScript <img src="images/JavaScript-logo.png" width="18" height="auto">.
-  [Live preview](https://project-form-validation-frontend.vercel.app/)
-  [Repository](https://github.com/araujocesarr/interactive-card-form-validation)
+  [Live preview](https://project-form-validation-frontend.vercel.app/) and [Repository](https://github.com/araujocesarr/interactive-card-form-validation)
 
 ## Contact
 
