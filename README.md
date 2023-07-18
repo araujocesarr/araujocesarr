@@ -11,6 +11,7 @@ I'm a frontend web developer in formation. I have experience in responsive web d
 - Tailwind <img src="images/Tailwind_CSS_Logo.svg.png" width="18" height="auto">
 - Bootstrap <img src="images/Bootstrap_logo.svg.png" width="18" height="auto">
 - JavaScript <img src="images/JavaScript-logo.png" width="18" height="auto">
+- React <img src="images/react1.png" width="18" height="auto">
 
 ## Certifications
 
@@ -29,9 +30,11 @@ I'm a frontend web developer in formation. I have experience in responsive web d
   </a>
 
 ## Portafolio Projects
-#### - Card validation form: HTML5 <img src="images/HTML.png" width="18" height="auto">, CSS <img src="images/css.png" width="18" height="auto">, SASS <img src="images/sass.png" width="18" height="auto"> and JavaScript <img src="images/JavaScript-logo.png" width="18" height="auto">.
+### - Card validation form: HTML5 <img src="images/HTML.png" width="18" height="auto">, CSS <img src="images/css.png" width="18" height="auto">, SASS <img src="images/sass.png" width="18" height="auto"> and JavaScript <img src="images/JavaScript-logo.png" width="18" height="auto">. 
+&nbsp;&nbsp;&nbsp;&nbsp; [Live preview](https://project-form-validation-frontend.vercel.app/) and [Repository](https://github.com/araujocesarr/interactive-card-form-validation).
 
-  [Live preview](https://project-form-validation-frontend.vercel.app/) and [Repository](https://github.com/araujocesarr/interactive-card-form-validation)
+#### - Meme generator: Tailwind <img src="images/Tailwind_CSS_Logo.svg.png" width="18" height="auto"> and React<img src="images/react1.png" width="18" height="auto">.
+&nbsp;&nbsp;&nbsp;&nbsp; [Live preview](https://meme-generator-henna-beta.vercel.app/) and [Repository](https://github.com/araujocesarr/meme-generator).
 
 ## Contact
 
