@@ -12,7 +12,7 @@ I'm a frontend web developer in formation. I have experience in responsive web d
 - Bootstrap <img src="images/Bootstrap_logo.svg.png" width="18" height="auto">
 - JavaScript <img src="images/JavaScript-logo.png" width="18" height="auto">
 - React <img src="images/react1.png" width="18" height="auto">
-- NextJS
+- NextJS  <img src="images/png-transparent-next-js-hd-logo.png" width="18" height="auto">
 
 ## Certifications
 
@@ -37,7 +37,7 @@ I'm a frontend web developer in formation. I have experience in responsive web d
 ### - Meme generator: Tailwind <img src="images/Tailwind_CSS_Logo.svg.png" width="18" height="auto"> and React<img src="images/react1.png" width="18" height="auto">.
 &nbsp;&nbsp;&nbsp;&nbsp; [Live preview](https://meme-generator-henna-beta.vercel.app/) and [Repository](https://github.com/araujocesarr/meme-generator).
 
-### - Notes App:  CSS <img src="images/css.png" width="18" height="auto">, React<img src="images/react1.png" width="18" height="auto"> and NextJS.
+### - Notes App:  CSS <img src="images/css.png" width="18" height="auto">, React<img src="images/react1.png" width="18" height="auto"> and NextJS <img src="images/png-transparent-next-js-hd-logo.png" width="18" height="auto">.
 &nbsp;&nbsp;&nbsp;&nbsp; [Live preview](https://notes-app-next-araujocesarr.vercel.app/) and [Repository](https://github.com/araujocesarr/notes-app-next).
 
 ## Contact
